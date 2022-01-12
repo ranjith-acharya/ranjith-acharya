@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ranjith-acharya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Front and Back End
+- 🌱 I’m currently completed my B.E Computer Engineering
 - 📫 How to reach me <a href="https://linkedin.com/in/ranjith-acharya" target="_blank">LinkedIn</a>
 
 <!---
