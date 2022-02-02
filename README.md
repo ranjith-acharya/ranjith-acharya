@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @ranjith-acharya
+# Hi there this is Ranjith! 👋
+<br>
+
+<img align="right" alt="GIF" src="https://miro.medium.com/max/1400/1*9m-WDdL_ji01bGbjEnutEw.gif" width="500" height="320" />
+
 - 👀 I’m interested in Front and Back End
 - 🌱 I’m currently completed my B.E Computer Engineering
 - 📫 Reach me on:
