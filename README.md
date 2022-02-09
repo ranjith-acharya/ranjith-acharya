@@ -1,19 +1,24 @@
-# Hi there this is Ranjith! 👋
-<br>
+<h1 align="center">Hi 👋, I'm RanjithKrishna Acharya!</h1>
+<!--<h3 align="center">A passionate developer interested in Front-End Development, Machine Learning, Data Science & Analytics.</h3>-->
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/1400/1*9m-WDdL_ji01bGbjEnutEw.gif" width="500" height="320" style="object-fit: scale-down;"/>
+- 🔭 I’m currently working on **Machine Learning.**
 
-- 👀 I’m interested in Front and Back End
-- 🌱 I’m currently completed my B.E Computer Engineering
-- 📫 Reach me on:
-<p align="center">
-<a href="https://ranjith-acharya.tk" target="_blank"> <img src="https://img.icons8.com/wired/64/4a90e2/resume.png" alt="Portfolio" /> </a>
-<a href="https://instagram.com/_ranjithacharya_" target="_blank"> <img src="https://img.icons8.com/wired/64/4a90e2/instagram-new.png" alt="Instagram Profile" /> </a>
-<a href="https://linkedin.com/in/ranjith-acharya" target="_blank"> <img src="https://img.icons8.com/wired/64/4a90e2/linkedin.png" alt="LinkedIn Profile" /> </a>
-<a href="https://youtube.com/c/LetsCodes?sub_confirmation=1" target="_blank"> <img src="https://img.icons8.com/wired/64/4a90e2/youtube-play.png" alt="YouTube Channel" /> </a>
+- 🌱 I’m currently learning **Data Science Tools.**
+
+- 👯 I’m looking to collaborate on **Front End Development.**
+
+- 🤝 I’m looking for help with **Software Development Tools.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ranjith-acharya](https://github.com/ranjith-acharya)
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ranjith-acharya&show_icons=true&theme=highcontrast&&count_private=true&hide=stars" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith-acharya&layout=compact&theme=highcontrast&langs_count=6" />
+</a>
 </p>
 
-<!---
-ranjith-acharya/ranjith-acharya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Wanna know more of me, just drop a "Hello" anywhere below: 
+<div>
+<a href="https://www.linkedin.com/in/ranjith-acharya" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/_ranjithacharya_" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div>
