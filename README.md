@@ -12,8 +12,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ranjith-acharya](https://github.com/ranjith-acharya)
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ranjith-acharya&show_icons=true&theme=gradient&count_private=true&hide=stars" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith-acharya&show_icons=true&layout=compact&theme=gradient&langs_count=8" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ranjith-acharya&show_icons=true&theme=github_dark&count_private=true&hide=stars" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith-acharya&show_icons=true&layout=compact&theme=github_dark&langs_count=6" />
 </p>
 
 ## Wanna know more of me, just drop a "Hello" anywhere below: 
