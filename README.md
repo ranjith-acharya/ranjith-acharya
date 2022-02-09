@@ -12,8 +12,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ranjith-acharya](https://github.com/ranjith-acharya)
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ranjith-acharya&show_icons=true&theme=github_dark&count_private=true&hide=stars" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith-acharya&show_icons=true&layout=compact&theme=github_dark&langs_count=6" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ranjith-acharya&show_icons=true&theme=github_dark&count_private=true&hide=stars" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith-acharya&show_icons=true&layout=compact&theme=github_dark&langs_count=6" />
 </p>
 
 ## Wanna know more of me, just drop a "Hello" anywhere below: 
@@ -21,3 +21,8 @@
 <a href="https://www.linkedin.com/in/ranjith-acharya" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/_ranjithacharya_" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
+
+<!---
+ranjith-acharya/ranjith-acharya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
