@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Back-End Development using Laravel.**
 
-- 🌱 I’m currently learning **Data Science Tools.**
+<!-- - 🌱 I’m currently learning **Data Science Tools.** -->
 
 - 👯 I’m looking to collaborate on **Front End, and Back End Development.**
 
