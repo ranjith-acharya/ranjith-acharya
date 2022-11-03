@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm RanjithKrishna Acharya!</h1>
 <!--<h3 align="center">A passionate developer interested in Front-End Development, Machine Learning, Data Science & Analytics.</h3>-->
 
-- 🔭 I’m currently working on **Back-End Development using Laravel.**
+- 🔭 I’m currently learning **Data Science.**
 
 <!-- - 🌱 I’m currently learning **Data Science Tools.** -->
 
-- 👯 I’m looking to collaborate on **Front End, and Back End Development.**
+<!-- - 👯 I’m looking to collaborate on **Front End, and Back End Development.** -->
 
 <!-- 🤝 I’m looking for help with **Software Development Tools.**-->
 
