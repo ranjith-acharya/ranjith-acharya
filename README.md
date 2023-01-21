@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RanjithKrishna Acharya!</h1>
 <!--<h3 align="center">A passionate developer interested in Front-End Development, Machine Learning, Data Science & Analytics.</h3>-->
 
-- 🔭 I’m currently learning **Data Science.**
+- 🔭 I’m currently learning **Data Science.** 📊 @TuringMinds.AI
 
 <!-- - 🌱 I’m currently learning **Data Science Tools.** -->
 
