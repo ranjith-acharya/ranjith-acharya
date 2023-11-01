@@ -13,7 +13,7 @@
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ranjith-acharya&show_icons=true&theme=github_dark&count_private=true&hide=stars" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith-acharya&show_icons=true&layout=compact&theme=github_dark&langs_count=6" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith-acharya&show_icons=true&layout=compact&theme=github_dark&langs_count=8" />
 </p>
 
 ## Wanna know more of me, just drop a "Hello" anywhere below: 
@@ -23,7 +23,7 @@
 <!-- <a href="https://www.youtube.com/channel/UC0ZyCb-OnKjhheQZFAQIFkw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UC0ZyCb-OnKjhheQZFAQIFkw?style=social" alt="Youtube_Channel_views"></a> -->
 </div>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjith-acharya&" alt="ranjith-acharya" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjith-acharya&theme=github_dark&show_icons=true" alt="ranjith-acharya" />
 </p>
 <!---
 ranjith-acharya/ranjith-acharya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
