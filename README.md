@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm RanjithKrishna Acharya!</h1>
+<h3 align="left" color="white">Hi 👋, I'm RanjithKrishna Acharya!</h3>
 <!--<h3 align="center">A passionate developer interested in Front-End Development, Machine Learning, Data Science & Analytics.</h3>-->
 
-- 🔭 I’m currently learning **Data Science.** 📊 [@TuringMinds.AI](https://www.turingminds.ai)
+- 🔭 I’m currently working as **Software Engineer.** 📊 [@TeamLease EdTech Ltd.]([https://www.turingminds.ai](https://www.teamleaseedtech.com/))
 
 <!-- - 🌱 I’m currently learning **Data Science Tools.** -->
 
@@ -17,12 +17,14 @@
 </p>
 
 ## Wanna know more of me, just drop a "Hello" anywhere below: 
-<div align="left">
+<div align="right">
 <a href="https://www.linkedin.com/in/ranjith-acharya" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=social&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/_ranjithacharya_" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=social&logo=instagram&logoColor=black" alt="Instagram"></a>
 <!-- <a href="https://www.youtube.com/channel/UC0ZyCb-OnKjhheQZFAQIFkw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UC0ZyCb-OnKjhheQZFAQIFkw?style=social" alt="Youtube_Channel_views"></a> -->
 </div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjith-acharya&" alt="ranjith-acharya" />
+</p>
 <!---
 ranjith-acharya/ranjith-acharya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
