@@ -20,8 +20,8 @@
 ## Wanna know more of me, just drop a "Hello" anywhere below: 
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=ranjith-acharya&style=for-the-badge&logoColor=black&label=Profile%20views&color=0e75b6" alt="ranjith-acharya"/>
-<a href="https://www.linkedin.com/in/ranjith-acharya" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/_ranjithacharya_" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/ranjith-acharya" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/_ranjithacharya_" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <!-- <a href="https://www.youtube.com/channel/UC0ZyCb-OnKjhheQZFAQIFkw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UC0ZyCb-OnKjhheQZFAQIFkw?style=social" alt="Youtube_Channel_views"></a> -->
 </div>
 <!---
