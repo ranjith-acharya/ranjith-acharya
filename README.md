@@ -1,5 +1,5 @@
 <h3 align="left" color="white">Hi 👋, I'm RanjithKrishna Acharya!</h3>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Data+Analyst;Software+Engineer)
+<!-- https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Data+Analyst;Software+Engineer -->
 <!--<h3 align="center">A passionate developer interested in Front-End Development, Machine Learning, Data Science & Analytics.</h3>-->
 
 - 🔭 I’m currently working as **Software Engineer.** 📊 [@TeamLease EdTech Ltd.]([https://www.turingminds.ai](https://www.teamleaseedtech.com/))
