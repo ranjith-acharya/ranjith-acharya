@@ -3,14 +3,14 @@
 <!--<h3 align="center">A passionate developer interested in Front-End Development, Machine Learning, Data Science & Analytics.</h3>-->
 
 - 🔭 I’m currently working as **Software Engineer.** 📊 [@TeamLease EdTech Ltd.]([https://www.turingminds.ai](https://www.teamleaseedtech.com/))
-
+- 🧑🏽‍💻 Turning complex ideas into scalable, innovative solutions with efficient software engineering.
 <!-- - 🌱 I’m currently learning **Data Science Tools.** -->
 
 <!-- - 👯 I’m looking to collaborate on **Front End, and Back End Development.** -->
 
 <!-- 🤝 I’m looking for help with **Software Development Tools.**-->
 
-- 👨‍💻 All of my projects are available at [https://github.com/ranjith-acharya](https://github.com/ranjith-acharya)
+<!-- - 🧑🏽‍💻 All of my projects are available at [https://github.com/ranjith-acharya](https://github.com/ranjith-acharya) -->
 
 <p align="left">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ranjith-acharya&show_icons=true&theme=github_dark&count_private=true" />
